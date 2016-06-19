@@ -2,6 +2,9 @@
 Amphritite is a free coming soon website theme from Abifog. Thanks for downloading this theme. I hope you find it useful.  
 Please fork it and make a pull request if you would like to contribute to this theme.
 
+## Demo
+A demo of the Amphritite Theme can be seen [here](http://abifog.com/AmphrititeFiles/)
+
 ## Features:-
 * Great Looks 
 * Scrolling Background Image  
@@ -17,6 +20,7 @@ Please fork it and make a pull request if you would like to contribute to this t
 * jQuery Compatible 
 * Well Documented 
 * Lots+ More ! 
+
 
 ## File Structure
 The files are arranged into the following structure: 
