@@ -35,13 +35,20 @@ The following frameworks have been used:
 
 Both frameworks have been installed locally, on the theme in the CSS and JS folder respectively. They have the capability to work offline. 
 
-# Fonts
+## Fonts
 All fonts have been installed locally on this theme and are included in the fonts folder. 
 
-# Changing the Background Image 
+## Changing the Background Image 
 To change the background image, simply go to the images folder and rename your desired image as banner.jpg  
 
-# Adding your own Image  
-*Take your desired image  Make it symmetrical Adobe Photoshop  Now save your image as banner.jpg in the images folder 
-Adding Social Icons 
-Font Awesome has already been installed. To add or remove icons:   Go to this link.  Choose your desired icon.  Copy the icon class.  Paste it in the index.html
+## Adding your own Image 
+* Take your desired image  
+* Make it symmetrical Adobe Photoshop 
+* Now save your image as banner.jpg in the images folder 
+
+## Adding Social Icons 
+Font Awesome has already been installed. To add or remove icons:   
+* Go to this http://fontawesome.io/icons/
+* Choose your desired icon. 
+* Copy the icon class. 
+* Paste it in the index.html
