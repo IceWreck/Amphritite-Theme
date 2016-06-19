@@ -47,8 +47,8 @@ To change the background image, simply go to the images folder and rename your d
 * Now save your image as banner.jpg in the images folder 
 
 ## Adding Social Icons 
-Font Awesome has already been installed. To add or remove icons:   
-* Go to this http://fontawesome.io/icons/
+Font Awesome has already been installed. To add or remove icons:   
+* Go to http://fontawesome.io/icons/
 * Choose your desired icon. 
 * Copy the icon class. 
 * Paste it in the index.html
