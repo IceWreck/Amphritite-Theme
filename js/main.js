@@ -29,7 +29,7 @@ setInterval("bgscroll()", scrollSpeed);
 
 // 2. Countdown Time
 
-var end = new Date('12/01/2017 12:00 AM');
+var end = new Date('12/01/2022 12:00 AM');
 //                  MM/DD/YYYY HH:MM AM
 
 var _second = 1000;
