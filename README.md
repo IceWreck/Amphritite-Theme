@@ -3,7 +3,7 @@ Amphritite is a free coming soon website theme from Abifog. Thanks for downloadi
 Please fork it and make a pull request if you would like to contribute to this theme.
 
 ## Demo
-A demo of the Amphritite Theme can be seen [here](http://abifog.com/AmphrititeFiles/)
+A demo of the Amphritite Theme can be seen [here](http://amphritite.abifog.com)
 
 ## Features:-
 * Great Looks 
